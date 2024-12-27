@@ -1,6 +1,9 @@
 # Search Github Users
 
 This is a web app that allows you to search for users on Github.
+![Screenshot 2024-12-28 000520](https://github.com/user-attachments/assets/bd4a3743-a128-4521-99aa-088b6cccf80d)
+![Screenshot 2024-12-28 000732](https://github.com/user-attachments/assets/bf52da58-34a6-426a-b2cf-0d20645f6198)
+
 
 ## Technologies Used
 
